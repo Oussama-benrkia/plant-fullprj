@@ -2,7 +2,7 @@
 
 Back-end  : --> [Spring Boot ](https://github.com/Oussama-benrkia/Plantes-Medi-back)
 ---------
-Front-end : --> [Angular ](https://github.com/ilyassoh/Plante-Medical)
+Front-end : --> [Angular ](https://github.com/Oussama-benrkia/frontplant)
 ---------
 
 
